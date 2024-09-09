@@ -52,4 +52,4 @@ International students often struggle with understanding course materials and pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GaneshPotula/AI-Based-Real-Time-Translation-Assistant-main-uipath-.git
+ https://github.com/GaneshPotula/AI-Based-Real-Time-Translation-Assistant-main-uipath-
